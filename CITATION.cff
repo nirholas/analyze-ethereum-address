@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use analyze-ethereum-address, please cite it as below."
+type: software
+title: "analyze-ethereum-address"
+abstract: "Analyze Efficient Ethereum Addresses "
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/analyze-ethereum-address"
+url: "https://github.com/nirholas/analyze-ethereum-address"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

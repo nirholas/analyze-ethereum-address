@@ -1,0 +1,15 @@
+{
+    "name": "analyze-ethereum-address",
+    "description": "Analyze Efficient Ethereum Addresses ",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/analyze-ethereum-address",
+    "language": "Unknown",
+    "topics": [
+        "analyze",
+        "address",
+        "nirholas",
+        "open-source",
+        "ethereum"
+    ]
+}
