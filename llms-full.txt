@@ -10,7 +10,7 @@ analyze-ethereum-address is an open-source project by nirholas. Analyze Efficien
 
 - URL: https://github.com/nirholas/analyze-ethereum-address
 - Language: Unknown
-- License: MIT
+- License: Proprietary — all rights reserved (see LICENSE)
 - Author: nirholas
 
 ## Contributing
