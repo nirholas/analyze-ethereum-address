@@ -38,3 +38,7 @@ used as arguments in transactions.
 ## License
 
 Proprietary. Copyright 2026 nirholas. All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/analyze-ethereum-address&type=Date)](https://www.star-history.com/#nirholas/analyze-ethereum-address&Date)
